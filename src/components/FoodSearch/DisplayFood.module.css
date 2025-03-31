@@ -1,0 +1,23 @@
+.ch{
+    background-color: rgb(237, 97, 97);
+    color: white;
+    font-family: Impact;
+    text-align: center;
+}
+.ch1{
+    
+    background-color: rgb(231, 158, 11);
+    color: white;
+    font-family: Impact;
+    text-align: center;
+}
+.ch3{
+    text-align: center;
+    font-weight: bold;
+}
+.cb1{
+    text-align: center;
+}
+.cb2{
+    background-color: lightgray;
+}
