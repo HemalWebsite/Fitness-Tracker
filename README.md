@@ -1,14 +1,14 @@
-# Fitness-Tracker
+Fitness-Tracker
 
-Prerequisits:
+Prerequisites:
 Download React.js on PC
 Donwloade Node.js on PC
 
-Initalization React Project:
+Initialization React Project:
 1. Open terminal and Type 'npm create vite@latest'
 2. Name the project
-3. Select a framwork (Select React)
-4. Select a varient (Select Javascript)
+3. Select a framework (Select React)
+4. Select a variant (Select Javascript)
 5. Type 'cd  replace_with_name_of_React_App'
 6. Type 'npm install'
 7. Type 'npm run dev'
@@ -60,7 +60,7 @@ Replace it with the src folder from this GitHub repository.
 
 
 Restarting the Server:
-1. Open Teminal
+1. Open Terminal
 2. Type 'cd  replace_with_name_of_React_App'
 3. Type 'npm run dev'
 
@@ -68,3 +68,5 @@ Restarting the Server:
 User Email:
 Email: test@gmail.com
 Pswd: test123
+
+
