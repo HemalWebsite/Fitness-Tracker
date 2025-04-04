@@ -63,3 +63,8 @@ Restarting the Server:
 1. Open Teminal
 2. Type 'cd  replace_with_name_of_React_App'
 3. Type 'npm run dev'
+
+
+User Email:
+Email: test@gmail.com
+Pswd: test123
