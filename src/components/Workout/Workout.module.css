@@ -1,0 +1,22 @@
+.ch{
+    background-color: rgb(100, 198, 231);
+    font-family: Impact;
+    color: white;
+    text-align: ce;
+}
+.t{
+    color: white;
+    font-family: Impact;
+    margin-top: 50px;
+    text-align: center;
+}
+.c{
+    margin-top: 50px;
+}
+.ch2{
+    font-weight: bolder;
+    background-color: rgb(231, 158, 11);
+    color: white;
+    font-family: Impact
+}
+
