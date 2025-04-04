@@ -1,0 +1,34 @@
+.c{
+    background-color: lightgray;
+}
+.d{
+    font-weight: bold;
+}
+.ch{
+    background-color: rgb(231, 158, 11);
+    color: white;
+    font-family: Impact;
+    text-align: center;
+}
+
+/* Setup.module.css */
+.timelineDropdown {
+    max-height: 300px;
+    width: 100%;
+  }
+  
+  .rangeSliderContainer {
+    width: 100%;
+    padding: 10px;
+  }
+  
+  .rangeSlider {
+    width: 100%;
+    max-width: 300px;
+  }
+  
+  .dateRangeContainer {
+    max-width: 300px;
+    margin: 0 auto;
+  }
+  
