@@ -65,7 +65,7 @@ Restarting the Server:
 3. Type 'npm run dev'
 
 
-User Email:
+User Login:
 Email: test@gmail.com
 Pswd: test123
 
