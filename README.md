@@ -1,8 +1,8 @@
-Fitness-Tracker
+# Fitness-Tracker
 
 Prerequisites:
 Download React.js on PC
-Donwloade Node.js on PC
+Download Node.js on PC
 
 Initialization React Project:
 1. Open terminal and Type 'npm create vite@latest'
