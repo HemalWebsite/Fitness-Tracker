@@ -1,0 +1,37 @@
+.H {
+    font-weight: bolder;
+    background-color: rgb(237, 97, 97);
+    color: white;
+    font-family: Impact
+
+
+}
+
+.T{
+    font-weight: bolder;
+    text-align: center;
+
+}
+
+.B{
+    font-weight: bolder;
+    text-align: center;
+}
+.C{
+    text-align: center;
+}
+.D{
+    background-color: white;
+}
+.cc{
+    background-color: lightgray;
+    border-radius: 10px;
+}
+.title1{
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.title2{
+    color: white;
+    font-family: Impact
+}
